@@ -15,7 +15,7 @@ public class Opgave_3 {
         if(num1>num2 && num2>num3 || num3>num2 && num2>num1){
             System.out.print(num2+" is a middle number");
         }
-       
+
         if(num1>num3 && num3>num2 || num2>num3 && num3>num1){
             System.out.print(num3+" is a middle number");
         }

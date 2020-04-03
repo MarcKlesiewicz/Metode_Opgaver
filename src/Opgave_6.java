@@ -8,7 +8,7 @@ public class Opgave_6 {
     static void tegnLinie(int antalTegn, char tegn) {
         for (int i = 0; i < antalTegn ; i++)
             System.out.print( tegn );
-            System.out.println();
+
 
 
     }
